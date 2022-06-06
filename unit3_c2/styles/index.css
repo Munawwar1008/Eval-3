@@ -1,0 +1,21 @@
+#navbar{
+    display:flex;
+    word-spacing: normal;
+    text-align: left;
+    justify-content: space-between;
+    margin-top: 0px;
+    height: 15%;
+    width: 100%;
+    border: 1px solid black;
+    background-color:aquamarine;
+    box-sizing: border-box;
+
+}
+
+#form{
+    display:block;
+    text-align: center;
+    justify-content: space-evenly;
+    
+
+}
